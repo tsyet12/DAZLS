@@ -1,7 +1,7 @@
 # DAZLS
 ## Domain adaptation zero shot learning for near real-time prediction of renewable energy
 
-This repository demonstrates the main algorithm DAZLS in the most basic implementation. It compliments the paper:
+This repository demonstrates the main algorithm DAZLS in the most basic implementation. It compliments the paper (below) to demonstrate the basic DAZLS algorithm:
 
 <br>
 S.Y. Teng et al. (2023). Near real-time predictions of renewable electricity production at substation level via domain adaptation zero-shot learning in sequence. Renewable and Sustainable Energy Reviews.
