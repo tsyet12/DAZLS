@@ -16,3 +16,5 @@ S.Y. Teng et al. (2023). Near real-time predictions of renewable electricity pro
 
 
 
+#Acknowledgements
+The research contribution from S.Y. Teng is supported by the European Union's Horizon Europe Research and Innovation Program, under Marie Skłodowska-Curie Actions grant agreement no. 101064585 (MoCEGS).
